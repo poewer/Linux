@@ -255,5 +255,5 @@ do
 done
 
 #   TODO
-#   1.  Zmienia się weilkość tablicy jak podajemy tip pierwszy a potem email to usuwa część tip ponieważ nie jest jednym indeksem 
+#   1.  Zmienia się weilkość tablicy kiedy podajemy tip jako pierwszy a potem email, kiedy robimy to w takiej kolejności usuwa część tip ponieważ nie jest jednym indeksem 
 #
