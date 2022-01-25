@@ -1,7 +1,6 @@
 #!/bin/bash
 
 
-
 #rozpoczecie programu od wyboru logowania/rejestracji
 echo "Wybierz opcje (1:2): "
 echo '
