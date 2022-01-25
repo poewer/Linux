@@ -1,7 +1,14 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+   <link href="README_STYLE.css" rel="stylesheet">
+ </head>
+ <body>
 <h1>Linux Bash</h1>
+<strong> ● system logowania oraz rejestrowania się.</strong>
 <br />
-<strong><p> ● system logowania oraz rejestrowania się.</p></strong>
-<strong><p> ● Panel profilowy</strong>
+<strong> ● Panel profilowy</strong>
 <br />
-<a class="main_link" href="moj_skrypt_v5.sh">●  Plik główny moj_skrypt_v5.sh</a>
-
+<a id="main_link" href="moj_skrypt_v5.sh">●  Plik główny moj_skrypt_v5.sh</a>
+</body>
+<html>
