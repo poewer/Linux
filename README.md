@@ -3,5 +3,5 @@
 <br />
 <strong> ● Panel profilowy</strong>
 <br />
-<a href="homework_Linux/moj_skrypt_v5.sh">●  Plik główny moj_skrypt_v5.sh</a>
+<a href="homework_Linux/main.sh">●  Plik główny main.sh</a>
 
