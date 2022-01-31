@@ -1,17 +1,11 @@
 #!/bin/bash
 
-echo "Podaj wymiary tabliczki mnożenia A x B"
-echo "Podaj A"
-read A
-echo "Podaj B"
-read B
-
-for ((i=1; i <= $A; i++));
+for ((i=1; i <= $1; i++));
 do   
-    for ((j=1; j <= $B; j++));
+    for ((j=1; j <= $2; j++));
     do 
-        nowa=$(($i * $j));
-        echo "$i * $j = $nowa"
+        count=$(($i * $j));
+        echo "$i * $j = $count"
     done
 done
 
