@@ -75,9 +75,7 @@ case $choice in
                                 8)Wyswietl Dane
                                 9)exit
                                 "
-
-
-                                                                
+                                               
                 check_array=($(grep "$login_login_base64_decode Array=(.*" base64)) #konwertowanie znaków wartości tablicy z pliku base64 do tablicy lokalcnej 
                 while read choice ;
                 do    
