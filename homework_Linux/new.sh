@@ -72,6 +72,8 @@ case $REPLY in
             esac
         else
             echo "Taki user nie istnieje"
+
+            
     fi
 
 ;;
